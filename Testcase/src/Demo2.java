@@ -5,6 +5,8 @@ public class Demo2 {
 		// TODO Auto-generated method stub
 		System.out.println("hello vk");
 		System.out.println("hi friends");
+		System.out.println("friends forever");
+		System.out.println("rocking boys");
 	}
 
 }
