@@ -7,6 +7,7 @@ public class Demo2 {
 		System.out.println("hi friends");
 		System.out.println("friends forever");
 		System.out.println("rocking boys");
+		System.out.println("hi my dear floks");
 	}
 
 }
